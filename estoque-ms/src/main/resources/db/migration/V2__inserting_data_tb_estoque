@@ -1,0 +1,2 @@
+insert into tb_estoque (quantidade,codigo) values (100,'Coca-Cola');
+
